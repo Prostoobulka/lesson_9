@@ -1,0 +1,10 @@
+body{
+	background: #e3e3e3;
+}
+.wrapper{
+	max-width: 1920px;
+	margin: 0 auto;
+}
+.wrapper_img img{
+	max-width: 100%;
+}
